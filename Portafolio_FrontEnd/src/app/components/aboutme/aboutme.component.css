@@ -1,0 +1,17 @@
+/*imagen de portada*/
+#portada{
+    border-radius: 30%;
+    padding: 1em;
+}
+/*nombre y titulo*/
+.nom{
+    padding-top: 1em;
+    font-size: x-large;
+}
+/*texto de la precentacion*/
+#presentacion{
+    font-size: x-large;
+}
+div{
+    background-color: #424e8d;
+}
