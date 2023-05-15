@@ -26,10 +26,10 @@
             ],
             "styles": [
               "src/styles.css",
-              "Portafolio_FrontEnd/node_modules/bootstrap/dist/css/bootstrap.css"
+              "node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": [
-              "Portafolio_FrontEnd/node_modules/bootstrap/dist/js/bootstrap.js"
+              "node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {
