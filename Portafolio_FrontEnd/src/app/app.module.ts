@@ -9,6 +9,7 @@ import { SocialwebsLinkComponent } from './components/socialwebs-link/socialwebs
 import { BannerComponent } from './components/banner/banner.component';
 import { AboutmeComponent } from './components/aboutme/aboutme.component';
 import { ExperienceComponent } from './components/experience/experience.component';
+import { EducationComponent } from './components/education/education.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { ExperienceComponent } from './components/experience/experience.componen
     SocialwebsLinkComponent,
     BannerComponent,
     AboutmeComponent,
-    ExperienceComponent
+    ExperienceComponent,
+    EducationComponent
   ],
   imports: [
     BrowserModule,
