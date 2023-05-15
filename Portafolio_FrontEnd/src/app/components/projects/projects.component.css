@@ -1,0 +1,24 @@
+.row{
+    background-color: #58618d;
+}
+p{
+    font-size: x-large;
+}
+.contenedor{
+    width: auto;
+}
+.part1{
+    margin-left: 1em;
+}
+.part1, .part2{
+    display: inline-block;
+}
+@media (min-width: 728px){
+    .part1, .part2{
+        text-align: justify;
+    }
+    .imgPro{
+        margin: 2em ;
+        box-shadow: 10px 10px 30px #000000;
+    }
+}
