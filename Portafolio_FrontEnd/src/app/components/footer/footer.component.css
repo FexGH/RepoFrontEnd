@@ -1,0 +1,10 @@
+div{
+    background-color: rgb(54, 52, 52);
+}
+footer{
+    color: aliceblue;
+    font-size: small;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
